@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikha Chaurasia</h1>
 <h3 align="center">Curious Mind | Always Ready to Learn New Things</h3>
 
-<!-- Replace 'image_url_here' with your uploaded image's online URL -->
-<img align="right" alt="coding" width="300" src="image_url_here">
+<img align="right" alt="coding" width="300" src="https://i.imgur.com/yourimage.png">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shikhachaurasia7&label=Profile%20views&color=0e75b6&style=flat" alt="shikhachaurasia7" /> 
@@ -36,7 +35,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhachaurasia7&" alt="shikhachaurasia7" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhachaurasia7&show_icons=true&locale=en" alt="shikhachaurasia7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhachaurasia7&" alt="shikhachaurasia7" /></p>
