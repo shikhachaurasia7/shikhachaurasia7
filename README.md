@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikha Chaurasia</h1>
 <h3 align="center">Curious Mind | Always Ready to Learn New Things</h3>
 
-<img align="right" alt="coding" widht="400" src="https://png.pngtree.com/png-vector/20240605/ourlarge/pngtree-3d-cartoon-teenage-girl-working-with-laptop-png-image_12625774.png">
+<img align="right" alt="coding" widht="300" src="https://motionarray.imgix.net/2635251-N457693LyA-high_0003.jpg?w=660&q=60&fit=max&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhachaurasia7&label=Profile%20views&color=0e75b6&style=flat" alt="shikhachaurasia7" /> </p>
 
