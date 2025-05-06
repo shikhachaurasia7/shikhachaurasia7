@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhachaurasia7&label=Profile%20views&color=0e75b6&style=flat" alt="shikhachaurasia7" /> </p>
 
-- 🔭 Preparing for **a career as a data analyst.**
+- 🔭  A skilled **Data Analyst.**
 
 - 🌱 I’m currently **Developing personal projects in Python, Power BI, Excel, and MySQL.**
 
